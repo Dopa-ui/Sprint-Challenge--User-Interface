@@ -1,0 +1,23 @@
+1.If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+-I would describe semantic HTML as well written, indented, and neat code.
+_____________________________________________________________________________________________________________
+
+2.Name two big differences between display: block; and display: inline.
+
+-display: inline-block allows to set a width and height on the element. Also, with display: inline-block , the top and bottom margins/paddings are respected, but with display: inline they are not
+______________________________________________________________________________________________________________________________________________________________________________________________________________
+
+3.What are the 4 areas of the box model? 
+
+-The content edge, padding edge, border edge, and margin edge.
+______________________________________________________________________________________________________
+
+4.While using flexbox, what axis does the following property work on: align-items: center?
+
+-they are aligned on the cross axis
+______________________________________________________________________________________________________
+
+5.Explain why git is valuable to a team of developers.
+
+-Git is important to devs for many reasons, one of them is that it has branches that are easy to merge and can have many different collaborators doing work at the same time.
